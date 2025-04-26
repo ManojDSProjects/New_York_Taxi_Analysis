@@ -1,0 +1,6 @@
+New  York Taxi project
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWs5QmVZSnZhVmdRZzhLU3Vsa0cwRVpwNWRRQXxBQ3Jtc0tuMDhBdnNKdnYtZFUtN2o0cXAyazNtdHAteFF6UzZYakRMQ0V4WUFneThBVU9ReVQwazBTOWtvYW13cHBhWS10WXZraVJrZHdtZHdRQ1AwZm5JUFNjOVR1ZnNwbzNfb09mMHR0YmpYTUxObUJiQ2Ezcw&q=https%3A%2F%2Fwww1.nyc.gov%2Fsite%2Ftlc%2Fabout%2Ftlc-trip-record-data.page&v=1ywbECbUaXA
+
+Yellow trip
+https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
